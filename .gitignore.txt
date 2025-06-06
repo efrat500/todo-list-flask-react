@@ -1,0 +1,17 @@
+# React (frontend)
+frontend/node_modules
+frontend/build
+
+# Python (backend)
+__pycache__/
+*.pyc
+instance/
+backend/__pycache__/
+backend/*.db
+
+# VSCode or IDEs
+.vscode/
+.idea/
+
+# Environment
+.env
